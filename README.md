@@ -1,4 +1,4 @@
-# Official Repository of MinJeing Go
+# Official Repository of MinJung Go
 ### Namw : MinJeong Go
 
 I'm in Gachon Univ
